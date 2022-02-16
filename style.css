@@ -1,0 +1,7 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    background-image: url(img/email-pattern.png);
+}
+#project {
+    background-image: url(img/email-pattern.png);
+}
